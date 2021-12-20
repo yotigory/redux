@@ -1,0 +1,33 @@
+.Contents{
+	margin: 0 auto;
+	margin-top: 50px;
+	max-width: 970px;
+}
+.Form{
+	margin-top: 50px;
+}
+.Form__inputs{
+	margin-top: 20px;
+	display: flex;
+	align-items: center;
+}
+.Form__input{
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+}
+.Form__input label{
+
+}
+.Form__input input{
+	margin: 10px 0;
+	width: 80%;
+}
+.Form__btns{
+	margin-top: 80px;
+	display: flex;
+	justify-content: space-between;
+}
+.Form__btns button{
+	width: 25%;
+}
